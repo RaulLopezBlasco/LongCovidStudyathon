@@ -42,6 +42,8 @@ Roger Paredes 9, 10
 
 Jaime Meléndez-Cardiel 11
 
+Juan Manuel Ramírez-Anguita 5
+
 
 1 - Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK
 
