@@ -34,7 +34,7 @@ Johnmary T. Arinze 6
 
 Kristin Kostka 1, 7
 
-1 - Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences. University of Oxford
+1 - Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK
 
 2 - Institute of Computer Science, University of Tartu, Tartu, Estonia
 
