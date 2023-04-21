@@ -14,7 +14,7 @@ Marti Catala 1
 
 Kim Lopez Guell 1
 
-Annika Jodicke 1
+Annika M Jödicke 1
 
 Junqing Xie 1
 
