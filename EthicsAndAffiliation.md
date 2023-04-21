@@ -34,6 +34,15 @@ Johnmary T. Arinze 6
 
 Kristin Kostka 1, 7
 
+Alicia Abellan 8
+
+Jessie O Oyinlola 4
+
+Roger Paredes 9, 10
+
+Jaime Meléndez-Cardiel 11
+
+
 1 - Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK
 
 2 - Institute of Computer Science, University of Tartu, Tartu, Estonia
@@ -47,6 +56,14 @@ Kristin Kostka 1, 7
 6 - Department of Medical Informatics, Erasmus University Medical Center, Rotterdam, Netherlands
 
 7 - The OHDSI Center at the Roux Institute, Northeastern University, Portland, ME, USA
+
+8 - Fundació Institut Universitari per a la recerca a l'Atenció Primària de Salut Jordi Gol i Gurina (IDIAPJGol), Barcelona, Spain. 
+
+9 - Department of Infectious Diseases & irsiCaixa AIDS Research Institute, Hospital Universitari Germans Trias i Pujol, Badalona, Catalonia, Spain
+
+10 - Center for Global Health and Diseases, Department of Pathology, Case Western Reserve University School of Medicine, Cleveland, OH 
+
+11 - Biocomputing Unit, Institute for Health Sciences in Aragon (IACS), Zaragoza, Spain 
 
 
 
