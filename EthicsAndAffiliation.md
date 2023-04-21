@@ -48,6 +48,8 @@ Núria Mercadé-Besora 8
 
 Talita Duarte-Salles 8, 12
 
+Raúl López Blasco 11
+
 
 1 - Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK
 
