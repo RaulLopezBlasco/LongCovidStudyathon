@@ -46,6 +46,8 @@ Juan Manuel Ramírez-Anguita 5
 
 Núria Mercadé-Besora 8
 
+Talita Duarte-Salles 8, 12
+
 
 1 - Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK
 
@@ -68,6 +70,8 @@ Núria Mercadé-Besora 8
 10 - Center for Global Health and Diseases, Department of Pathology, Case Western Reserve University School of Medicine, Cleveland, OH 
 
 11 - Biocomputing Unit, Institute for Health Sciences in Aragon (IACS), Zaragoza, Spain 
+
+12 - Department of Medical Informatics, Erasmus University Medical Center, Rotterdam, the Netherlands
 
 
 
