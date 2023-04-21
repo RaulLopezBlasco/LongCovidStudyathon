@@ -6,6 +6,7 @@
 The study was approved by the relevant Institutional Review Boards: 
 - CPRD’s Research Data Governance Process (Protocol 23_002603)
 - The Research Ethics Committee of the University of Tartu approval (Protocol No. 330/T10)
+- The Integrated Primary Care Information (IPCI) Governanace Board (Protocol No. 9/2023)
 
 ## Participants
 
@@ -29,7 +30,11 @@ Daniel Dedman 4
 
 Miguel A. Mayer 5
 
-1 - Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences. University of Oxford
+Johnmary T. Arinze 6
+
+Kristin Kostka 1, 7
+
+1 - Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK
 
 2 - Institute of Computer Science, University of Tartu, Tartu, Estonia
 
@@ -38,6 +43,10 @@ Miguel A. Mayer 5
 4 - CPRD, Medicines and Healthcare products Regulatory Agency, London, UK
 
 5 - Parc de Salut Mar, Hospital del Mar Medical Research Institute, Barcelona, Spain 
+
+6 - Department of Medical Informatics, Erasmus University Medical Center, Rotterdam, Netherlands
+
+7 - The OHDSI Center at the Roux Institute, Northeastern University, Portland, ME, USA
 
 
 
