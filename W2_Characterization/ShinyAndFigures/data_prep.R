@@ -4,11 +4,10 @@ library(dplyr)
 library(ggplot2)
 library(readr)
 
-# network results
+###  network results -----
 load("C:/Users/eburn/OneDrive - Nexus365/long covid studyathon/Processed_Results/W2_Characterization_Data/dataShiny_Charac2.RData")
-lsc_table <- lsc_table2
-du_table <- du_table2
-
+du_table <- bind_rows(du_table %>% mutate(index = "base"),
+                      du_tablenew %>% mutate(index = "event"))
 
 # ls conditions  -----
 lsc_table <- lsc_table %>% 
@@ -47,3 +46,5 @@ write.csv(lsc_hu,
 write.csv(lsc_vacc,
           here::here("data", "lsc_vacc.csv"),
           row.names = FALSE)
+
+
