@@ -25,7 +25,6 @@ lsc_table <- read.csv(here::here("data", "lsc_table.csv"))
 Health conditions at CPRD Gold
 
 ```{r tableOne, include=FALSE}
-# COMBINAR NOM I COUNTS I DP FER PIVOT WIDER!!
 tableOne_conditions <- lsc_table %>%
   dplyr::filter(table_name == "condition_occurrence") %>%
   dplyr::filter(concept_id != 0 & concept_id != 38003614) %>%
